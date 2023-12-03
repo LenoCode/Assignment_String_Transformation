@@ -37,3 +37,4 @@ Example:
     }
 
 
+For checking the specific functions and how they work I suggest looking at the unit tests
