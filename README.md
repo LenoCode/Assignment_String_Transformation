@@ -38,3 +38,9 @@ Example:
 
 
 For checking the specific functions and how they work I suggest looking at the unit tests
+
+
+<h1>Github action and docker</h1>
+To test example, you can go to github actions and run workflow. This workflow will build jar, docker image
+and then run it. 
+To check result, go to step Run Image
