@@ -16,5 +16,5 @@ jobs:
 
       - name: Build image
         run: |
-         docker build . -java-image \
+         docker build . -t java-image \
          docker run java-image
