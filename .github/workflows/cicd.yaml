@@ -16,4 +16,4 @@ jobs:
 
       - name: Build image
         run: |
-          docker build .
+          cd Assignment_String_Transformation && docker build .
